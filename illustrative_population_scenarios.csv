@@ -1,0 +1,16 @@
+years_ahead,scenario,projected_population
+0,Low (-0.5% annually),7758
+5,Low (-0.5% annually),7566
+10,Low (-0.5% annually),7379
+15,Low (-0.5% annually),7196
+20,Low (-0.5% annually),7018
+0,Stable (0% annually),7758
+5,Stable (0% annually),7758
+10,Stable (0% annually),7758
+15,Stable (0% annually),7758
+20,Stable (0% annually),7758
+0,High (+0.5% annually),7758
+5,High (+0.5% annually),7954
+10,High (+0.5% annually),8155
+15,High (+0.5% annually),8361
+20,High (+0.5% annually),8572
